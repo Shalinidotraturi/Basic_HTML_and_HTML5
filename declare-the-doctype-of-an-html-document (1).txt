@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+  
+  <h1>GOLDEN Bears</h1>
+
+</html>
